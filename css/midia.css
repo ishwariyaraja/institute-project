@@ -124,14 +124,14 @@
 /* 5 */
 .container-5{
   margin-left: 50px;
+  margin-right: 20px;
 }
-
 .container-5 h1{
    text-wrap:nowrap;
    font-size: 30px;
    text-align: center;
    padding: 30px;
-   margin-left:0px;
+   margin-right:20px;
    margin-bottom: 30px;
 }
 .detials{
