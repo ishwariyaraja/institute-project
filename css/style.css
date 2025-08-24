@@ -131,11 +131,11 @@ span.btnn{
     display: flex;
     flex-direction:row;
     justify-content: space-evenly;
-    gap: 50px;
-    margin: 20px;
+    gap: 30px;
+    /* margin: 10px; */
 }
 .img-3three{
-    width: 700px;
+    width: 600px;
     height: 400px;
 }
 .img-3three img{
@@ -144,7 +144,7 @@ span.btnn{
 }
 .contan-three{
     width:500px;
-    height: 500px;
+    height: auto;
     background-color:#fff;
     padding: 20px;
     box-shadow: 0px 0px 10px 0px;
@@ -156,6 +156,8 @@ span.btnn{
     color:#F5A623;
 }
 .contan-three p{
+  display: flex;
+  flex-wrap: wrap;
   padding: 10px;
   text-align: justify;
   line-height: 1.4;

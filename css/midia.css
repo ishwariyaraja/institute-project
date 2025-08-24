@@ -77,12 +77,13 @@
     gap: 10px;
 }
 .img-3three{
-   max-width:400px;
+   max-width:350px;
+   height: 400px;
    margin: 20px;
 }
 .contan-three {
-    max-width: 420px;
-    height:500px;
+    max-width: 350px;
+    height:auto;
     /* max-height:min-content; */
     overflow: hidden;
     background-color: white;
