@@ -163,10 +163,9 @@ span.btnn{
   line-height: 1.4;
   font-size: 18px;
 } 
-
 /* 4 */
  .container-4{
-    margin-top: 80px;
+    margin-top: 40px;
 }
 .container-4 h1{
     text-align: center;
@@ -188,13 +187,10 @@ span.btnn{
    background-attachment: fixed;
    width: 100%;
    height: 300px;
-   text-align: center;
-   color: white;
-   font-size: 40px;
-   padding: 30px;
-   font-family: cursive;
 }
 .sect-four h2{
+    text-align: center;
+    color: white;
     font-size: 50px;
     padding-top: 60px;
 }
