@@ -204,8 +204,8 @@
 }
 .sildpara{
     display: flex;  
-    flex-direction: row;
-    margin-top:10px;
+    flex-direction:column;
+    margin-top:5px;
     font-size: 14px;
     text-align: justify;
     padding: 10px;
@@ -215,7 +215,7 @@
 }
 .sildpara p{
     display: flex;
-    flex-direction:column;
+    flex-direction:row;
     /* border:1px solid red ; */
 }
 .p{
@@ -245,8 +245,8 @@
    height:100px ; 
    /* padding: 10px; */
 }
-.bg-dark{
-  margin-right: 30px;
+.container{
+    margin-right: 30px;
 }
 } 
 
