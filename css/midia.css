@@ -123,7 +123,7 @@
 }
 /* 5 */
 .container-5{
-  margin-left: 50px;
+  margin-left: 20px;
   margin-right: 20px;
 }
 .container-5 h1{
@@ -139,7 +139,7 @@
     flex-direction: column;
 }
 .btn- button{
-   margin: 5px 90px;
+   margin: 1px 100px;
    padding: 5px;
 }
 /* 6 */
