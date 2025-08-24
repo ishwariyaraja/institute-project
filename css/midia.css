@@ -123,14 +123,14 @@
 }
 /* 5 */
 .container-5{
-  margin:0 10 0 35px;
+ margin-left: 50px;
 }
 .container-5 h1{
    text-wrap:nowrap;
    font-size: 30px;
    text-align: center;
    padding: 30px;
-   margin-right:20px;
+   margin-right:100px;
    margin-bottom: 30px;
 }
 .detials{
@@ -144,19 +144,18 @@
 /* 6 */
 .angertag{
  display: flex;
- flex-wrap: wrap;
  justify-content: center;
  align-items: center;
- margin-top:100px ;
+ /* margin-top:100px ; */
  padding: 10px;
- margin:20 20px 0 30px;
+ margin:70 50px 0 30px;
 }
 .container-6 h1{
     position:absolute;
     left: 20%;
     top:50px ;
     color: #fff;
-    font-size: 40px;
+    font-size: 30px;
 }
 .linkbox {
   display: flex;
@@ -216,7 +215,7 @@
     justify-content:center;
     width:15px;
     height: auto;
-    margin-left: 60px;
+    margin-left: 40px;
     height: 10px;
 }
 .star img{
