@@ -123,7 +123,7 @@
 }
 /* 5 */
 .container-5{
- margin-left:15px;
+ margin-left:23px;
 }
 .container-5 h1{
    text-wrap:nowrap;
@@ -152,7 +152,7 @@
 }
 .container-6 h1{
     position:absolute;
-    left: 20%;
+    left: 25%;
     top:50px ;
     color: #fff;
     font-size: 30px;
@@ -178,7 +178,7 @@
 /* 7 */
 .sliddives{
     display: flex;
-    /* flex-wrap: wrap; */
+    flex-direction:row;
     width:300px;
     height:auto;
     background-color: #fff;
@@ -215,7 +215,7 @@
 }
 .sildpara p{
     display: flex;
-    flex-direction:row;
+    flex-direction:column;
     /* border:1px solid red ; */
 }
 .p{
@@ -233,7 +233,7 @@
     justify-content:center;
     width:15px;
     height: auto;
-    margin-left: 40px;
+    margin-left: 10px;
     height: 10px;
 }
 .star img{
@@ -246,7 +246,7 @@
    /* padding: 10px; */
 }
 .container{
-    margin-right: 30px;
+    margin:20px;
 }
 } 
 
