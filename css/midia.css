@@ -25,7 +25,9 @@
 .contain-img{
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-left:20px;
+    margin-left:10px;
+    width:35%;
+   height:450px;
 }
 .contain-img img{
    width:300px ;
