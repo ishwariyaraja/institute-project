@@ -123,8 +123,7 @@
 }
 /* 5 */
 .container-5{
-  /* margin-left: 20px; */
-  margin-right:30px;
+  margin:0 10 0 35px;
 }
 .container-5 h1{
    text-wrap:nowrap;
@@ -150,12 +149,12 @@
  align-items: center;
  margin-top:100px ;
  padding: 10px;
- margin:0 20px 0 30px;
+ margin:20 20px 0 30px;
 }
 .container-6 h1{
     position:absolute;
     left: 20%;
-    top:20px ;
+    top:50px ;
     color: #fff;
     font-size: 40px;
 }
