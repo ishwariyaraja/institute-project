@@ -226,14 +226,14 @@
 
 .p h4{
     font-size: 10px;
-    margin-top: 0px;
+    margin-top: 15px;
 }
 .star{
     display:flex;
     justify-content:center;
     width:15px;
     height: auto;
-    margin-left: 10px;
+    margin-left: 25px;
     height: 10px;
 }
 .star img{
@@ -244,6 +244,9 @@
    width:100px ;
    height:100px ; 
    /* padding: 10px; */
+}
+footer{
+    margin-left: 20px;
 }
 .container{
     margin:20px;
