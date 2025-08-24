@@ -490,12 +490,9 @@ section label{
 } 
 /* mediya css */
 
-
+/* 
 
 @media screen and (max-width:670px){
-
-/* n */
-
 .nav-item{
     font-size: 20px;
     color: #F5A623;
@@ -670,7 +667,7 @@ section label{
    height:200px;
    /* border: 1px solid; */
 }
-}
+}  
 
 
 
