@@ -124,7 +124,7 @@
 /* 5 */
 .container-5{
   /* margin-left: 20px; */
-  margin-right:50px;
+  margin-right:30px;
 }
 .container-5 h1{
    text-wrap:nowrap;
@@ -150,14 +150,14 @@
  align-items: center;
  margin-top:100px ;
  padding: 10px;
- margin:0 20px 0 20px;
+ margin:0 20px 0 30px;
 }
 .container-6 h1{
     position:absolute;
     left: 20%;
     top:20px ;
     color: #fff;
-    font-size: 60px;
+    font-size: 40px;
 }
 .linkbox {
   display: flex;
@@ -180,7 +180,8 @@
 /* 7 */
 .sliddives{
     display: flex;
-    width:450px;
+    flex-wrap: wrap;
+    width:300px;
     height:200px;
     background-color: #fff;
     box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
@@ -202,29 +203,21 @@
     flex-direction: row;
     /* border:1px solid red ; */
 }
-.hollsection{
-      /* margin-top: 20px; */
-      /* font-size: 20px; */
-}
-/* .arow .aro{
-    width: 50px;
-} */
 .imsec{
     width: 100px;
     height: 100px;
     padding: 10px;
 }
-.p p{
-    /* font-size: 10px; */
-}
 .p h4{
-    font-size: 16px;
+    font-size: 10px;
+    margin-top: 0px;
 }
 .star{
     display:flex;
     justify-content:center;
     width:15px;
-    margin-left: 40px;
+    height: auto;
+    margin-left: 60px;
     height: 10px;
 }
 .star img{
@@ -237,10 +230,9 @@
    /* padding: 10px; */
 }
 .smallimg{
-   /* margin:10px; */
+   margin:0px;
    width:100px ;
    height:200px;
-   /* border: 1px solid; */
 }
 } 
 
