@@ -208,11 +208,16 @@ span.btnn{
 }
 .sap-box-4 span{
     margin: 10px;
-    background: #fff;
+    background: #fff transparent;
     box-shadow: inset 0px 0px 25px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.3);
     border-radius: 15px;
     padding: 30px 55px;
     transform: translateY(-80px);
+}
+.sap-box-4 span:hover{
+     background: #fff;
+     transition: all 0.2s ease;
+
 }
 .num{
     text-align: center;
